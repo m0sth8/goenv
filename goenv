@@ -187,7 +187,7 @@ class MacOSX(Unix):
 # Helper functions
 def default_version():
     # TODO: need to automate getting this
-    return "1.2.2"
+    return "1.3"
 
 
 def all_for_gopath(base):
